@@ -1,0 +1,15 @@
+*.db
+*.doc
+*.docx
+*.py[cod]
+*.txt
+*.xlsx
+*.zip
+.web
+/Output_to_txt
+/Sorted
+/Unused
+/my_vectordb
+/venv
+__pycache__/
+assets/external/
